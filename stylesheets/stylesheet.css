@@ -43,6 +43,11 @@ a {
     padding: 0.6rem 0.9rem;
     font-size: 0.9rem; } }
 
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  svg {
+    padding: 0.6rem 0.9rem;
+  }
+
 @media screen and (max-width: 42em) {
   .btn {
     display: block;
