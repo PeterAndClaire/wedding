@@ -1,6 +1,13 @@
 * {
   box-sizing: border-box; }
-
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:640px;
+   height:480px; /* your iframe height */
+   top:480px;  /* your iframe height */
+   margin-top:-480px;  /* your iframe height */
+}
 body {
   padding: 0;
   margin: 0;
