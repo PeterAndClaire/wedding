@@ -12,8 +12,7 @@
   </head>
   <body>
     <section class="page-header">
-        <img src="CPskyline.svg">
-      <h1 class="project-name">Peter and Claire&#39;s Wedding</h1>
+
       <h2 class="project-tagline">Saturday, August 6, 2016<br />Seattle, WA</h2>
       <a href="#ceremony" class="btn">Ceremony</a>
       <a href="#reception" class="btn">Reception</a>
